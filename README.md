@@ -1,1 +1,1 @@
-<h1>UEFI-Checker<h1>
+<h1>UEFI-Checker</h1>
