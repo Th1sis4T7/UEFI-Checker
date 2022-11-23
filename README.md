@@ -1,11 +1,7 @@
-<h1>UEFI-Checker</h1>
-# <h3>How to use it</h3>
+# UEFI-Checker
+### How to use it
 <ol>
   <li>First clone it.</li>
-  <li>Then chmod 'Check.sh' by this command:
-    > chmod +x check.sh
-  </li>
-  <li>Now you can run script!
-    > ./Check.sh
-  </li>
+  <li>Then chmod 'Check.sh' by this command:<br>chmod +x check.sh</li>
+  <li>Now you can run script!<br>./Check.sh</li>
 </ol>
