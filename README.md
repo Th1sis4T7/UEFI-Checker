@@ -12,3 +12,6 @@ chmod +x Check.sh
 ```term
 ./Check.sh
 ```
+---
+## Credits
+* Telegram Channel : @LearnExploit
